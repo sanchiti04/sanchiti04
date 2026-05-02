@@ -19,7 +19,7 @@ Email Me 👉 ✉️ **sanchiti.ag@gmail.com** For Collaboration/Projects or Any
 
 <!-- Dynamic Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Cloud+%26+Full-Stack+Developer;Java+%26+Hibernate+Enthusiast;Agile+%26+Jira+Collaborator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Cloud+%26+Full-Stack+Developer;Java+%26+Enthusiast;Jira+Collaborator" alt="Typing SVG" />
 </div>
 
 <!-- Contribution Snake Animation -->
